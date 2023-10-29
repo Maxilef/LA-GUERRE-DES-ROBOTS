@@ -1,0 +1,13 @@
+AL
+DD H
+DD D
+DD B
+DD G
+IN
+IN
+DD H
+DD D
+DD B
+DD G
+IN
+IN
