@@ -1,8 +1,8 @@
-MAXIME ROUSSEL ET ANOUP SUNGKER
-INFO L3
+MAXIME ROUSSEL
+INFO projet L3
 
 
-
+---
 ####################################
 #      LA GUERRE DES ROBOTS        #
 ####################################
